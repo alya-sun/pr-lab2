@@ -1,0 +1,6 @@
+@pr_lab2_students_HostAddress = http://localhost:5280
+
+GET {{pr_lab2_students_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
